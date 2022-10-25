@@ -1,2 +1,2 @@
 # by-daalt
-https://erdem81.github.io/by-daalt/
+https://github.com/erdem81/by-daalt.git
